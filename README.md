@@ -1,6 +1,6 @@
 # Ocorre Semob
 ## Análise de acidentes de trânsito em São Vicente
-### Projeto desenvolvido na disciplina de Governo Aberto da EACH USP.
+### Projeto desenvolvido na disciplina de Governo Aberto - (ACH3778) da EACH USP.
 
 - Carolline Molessani de Freitas - 11915748
 - Gabriel da Silva Rosario - 10843382
