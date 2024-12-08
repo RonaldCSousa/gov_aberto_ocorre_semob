@@ -11,4 +11,5 @@
 - Camilla Damasceno Silva - 9390152
 ---
 ## COMO EXECUTAR O PROJETO
+- Clone o repositorio ou faça o download apenas do arquivo compactado.
 
