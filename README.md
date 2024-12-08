@@ -9,7 +9,7 @@
 - Ronald Cosmo de Sousa - 11909783
 - Gustavo Antônio Sabino Batista - 10723732
 - Camilla Damasceno Silva - 9390152
----
+
 ## COMO EXECUTAR O PROJETO
 - Clone o repositorio ou faça o download apenas do arquivo compactado.
 
