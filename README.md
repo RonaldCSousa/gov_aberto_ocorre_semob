@@ -10,5 +10,7 @@
 - Camilla Damasceno Silva - 9390152
 
 ## COMO EXECUTAR O PROJETO
-- Clone o repositorio ou faça o download apenas do arquivo compactado.
-
+- Clone o repositorio ou faça o download apenas do arquivo compactado (dashboard_ocorre_semob.rar);
+- Instale o Power BI;
+- Descompacte o arquivo *dashboard_ocorre_semob.rar*;
+- Abra o executável *relatório_de_trânsito_semob.pbix*.
