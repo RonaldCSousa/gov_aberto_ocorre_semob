@@ -9,11 +9,11 @@
 - Gustavo Antônio Sabino Batista - 10723732
 - Camilla Damasceno Silva - 9390152
 
-## CONTEÚDO DO ARQUIVO.
+### CONTEÚDO DO ARQUIVO.
 -   Executável do Dashboard;
 -   Bases de dados utilizadas para a construção dos gráficos.
 
-## COMO EXECUTAR O PROJETO
+### COMO EXECUTAR O PROJETO
 - Clone o repositorio ou faça o download apenas do arquivo compactado (dashboard_ocorre_semob.rar);
 - Instale o Power BI;
   - O download pode ser feito na Microsoft Store ou diretamente no site da aplicação.  
