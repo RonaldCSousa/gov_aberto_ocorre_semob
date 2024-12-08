@@ -12,5 +12,6 @@
 ## COMO EXECUTAR O PROJETO
 - Clone o repositorio ou faça o download apenas do arquivo compactado (dashboard_ocorre_semob.rar);
 - Instale o Power BI;
+  - O download pode ser feito na Microsoft Store ou diretamente no site da aplicação.  
 - Descompacte o arquivo *dashboard_ocorre_semob.rar*;
 - Abra o executável *relatório_de_trânsito_semob.pbix*.
