@@ -1,5 +1,6 @@
 # Ocorre Semob
-## Projeto desenvolvido na disciplina de Governo Aberto da EACH USP.
+## Análise de acidentes de trânsito em Sãoo Vicente
+### Projeto desenvolvido na disciplina de Governo Aberto da EACH USP.
 
 - Carolline Molessani de Freitas - 11915748
 - Gabriel da Silva Rosario - 10843382
