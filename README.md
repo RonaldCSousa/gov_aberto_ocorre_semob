@@ -1,1 +1,2 @@
-# gov_aberto_ocorre_semob
+# Ocorre Semob
+## Projeto desenvolvido na disciplina de Governo Aberto da EACH USP.
