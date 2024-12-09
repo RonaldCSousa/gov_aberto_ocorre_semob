@@ -1,7 +1,7 @@
 # Ocorre Semob
 ### Análise de acidentes de trânsito em São Vicente.
 ### Projeto desenvolvido na disciplina de Governo Aberto - (ACH3778) da EACH USP.
-  - Este é o repositorio oficial do projeto da disciplina 
+  - Este é o repositorio oficial do projeto da disciplina, contendo os Arquivos do DashBoard e links para o protótipo feito no Figma.
 ---
 ### Integrantes do grupo:
 - Carolline Molessani de Freitas - 11915748
@@ -21,6 +21,7 @@
 - Descompacte o arquivo *dashboard_ocorre_semob.rar*;
 - Abra o executável *relatório_de_trânsito_semob.pbix*.
 ---
-### LINKS PARA O PROTOTIPO DO OCORRE SEMOB
+### LINKS PARA O PROTÓTIPO DO OCORRE SEMOB
 - https://www.figma.com/proto/DzYhKrzK3Xlv3cvpuE2B0M/Ocorre-Simob?node-id=0-47&node-type=canvas&t=8DHWGEp0BwIKLymC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=166%3A1100&share=1
+
 - https://www.figma.com/design/DzYhKrzK3Xlv3cvpuE2B0M/Ocorre-Simob?node-id=0-1&node-type=canvas&t=c2dG6N7XxfwzPgHA-0
