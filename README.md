@@ -11,10 +11,10 @@
 - Camilla Damasceno Silva - 9390152
 ---
 ### DASHBOARD - POWER BI
-### CONTEÚDO DO ARQUIVO.
+#### CONTEÚDO DO ARQUIVO.
 -   Executável do Dashboard;
 -   Bases de dados utilizadas para a construção dos gráficos.
-### COMO EXECUTAR O DASHBOARD
+#### COMO EXECUTAR O DASHBOARD
 - Clone o repositorio ou faça o download apenas do arquivo compactado (dashboard_ocorre_semob.rar);
 - Instale o Power BI;
   - O download pode ser feito na Microsoft Store ou diretamente no site da aplicação.  
